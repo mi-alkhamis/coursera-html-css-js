@@ -1,0 +1,83 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #681010;
+	font-family: "Oxygen", sans-serif;
+}
+
+#header-nav {
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand {
+	padding-top: 25px;
+	padding-bottom: 50px;
+}
+
+.navbar-brand h1 {
+	/* Food, LLC */
+	font-family: "Lora", serif;
+	color: #557c3e;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	line-height: 0.75;
+}
+
+.navbar-brand a:hover,
+.navbar-brand a:focus {
+	text-decoration: none;
+}
+
+#nav-list {
+	margin-top: 10px;
+}
+#nav-list a {
+	color: #951c49;
+	text-align: center;
+}
+#nav-list a:hover {
+	background: #e7e7e7;
+}
+#nav-list a span {
+	font-size: 1.8em;
+}
+
+#phone {
+	margin-top: 5px;
+}
+#menu_title {
+	font-size: 30px;
+	text-align: center;
+	text-shadow: 1px 1px 1px #222;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.navbar-header button.navbar-toggle,
+.navbar-header .icon-bar {
+	border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+	clear: both;
+	margin-top: -30px;
+}
+
+.sub {
+	background: gray;
+	margin-top: 15px;
+	border: 5px solid #61122f;
+	box-shadow: #681010;
+}
+
+div.menu-entry {
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-size: 20px;
+}
